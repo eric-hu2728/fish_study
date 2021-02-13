@@ -1,2 +1,2 @@
-This is a coding portion of a graduate thesis. 
-The thesis focuses on the behavior of zebrafish.
+This code represents an initial attempt to outline a process by which the individual positions of a group of larval zebrafish can be identified through computer vision and quantified using conventional mathematics. Specifically, we aim to calculate the average distance between all individuals in a given set, taking this value to be a measure of larval shoal cohesion. Ideally, the user can simply load in an image file, and the process will output a normalized, unitless value reflective of how condensed or spread out the fish are. Research applications include anxyolytic drug testing and behavioral phenotype characterization.
+WAP WAP WAP
