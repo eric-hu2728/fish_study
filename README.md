@@ -1,4 +1,5 @@
-This project was originally a joint noob scripting endeavor with my engineer buddy, fencing teammate, and fellow Goldenview Middle School alumnus Jake.
-I was working with zebrafish larvae in Taiwan for my master's thesis, and Jake was kind enough to lend his Ruby expertise and brainpower to work through the main calculations.
-Eventually, this work was ported over to python to create the XY Shoal Analysis project, leaving fish_study to take on a life of its own.
-Stay tuned as we update fish_study with new functionalities intended for what will probably be an unrelated application.
+This project was originally a joint noob scripting endeavor with my engineer buddy, fencing teammate, and fellow Goldenview Middle School alumnus, Jake Green.
+I was working with zebrafish larvae in Taiwan for my master's thesis, and Jake was kind enough to lend his Ruby expertise and brainpower to work through some data manipulation on raw XY coordinate outputs.
+Eventually, this work was ported over to python to create the XY Shoal Analysis and NovelTankDive_Analysis projects, leaving XYTrajectoryStepper to take on a life of its own.
+As far as I can see, there are no easy-to-use, free software packages available to researchers for extracting path lengths and visualized traces from a long list of stepwose XY coordinates. Matlab has the capability, but it's cumbersome. Origin is a statistical analysis software suite that can also do it, but its slow and requires a paid subscription. Strange, given that this is not a computationally complex problem.
+Please make use of this free tool for animal tracking, classroom applications, or whatever you want. It's all open-source and freely available. Moreover, we understand that many researchers are not "computer people" and therefore plan to make a simple step-by-step guide to not only using this tool, but also getting Python up and running in the first place.
